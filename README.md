@@ -1,2 +1,2 @@
 # reactproject
-My first project using reactjs and rest api
+My first project using React JS and REST API from https://jsonplaceholder.typicode.com/
