@@ -1,2 +1,2 @@
 # reactproject
-My first project using reactjs
+My first project using reactjs and rest api
